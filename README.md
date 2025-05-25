@@ -22,9 +22,9 @@ Welcome to the **Interactive AI Story & Art Generator**, a Python-based applicat
 ---
 
 ## 📂 Project Structure
-├── app.py # Main application logic
-├── requirements.txt # Python dependencies
-├── .gitignore # Files and directories to ignore in Git
+├── app.py # Main application logic<br>
+├── requirements.txt # Python dependencies<br>
+├── .gitignore # Files and directories to ignore in Git<br>
 └── README.md # This documentation
 
 
@@ -50,17 +50,17 @@ Welcome to the **Interactive AI Story & Art Generator**, a Python-based applicat
    streamlit run app.py
 
 ## ✨ Future Enhancements
-• 🌈 Improved UI/UX with animations and modern design.
-• 📚 Support for multiple story genres and advanced creativity options.
-• 🖌️ Expand art styles with more models and APIs.
-• 📤 Options to save, download, and share generated stories and art.
+• 🌈 Improved UI/UX with animations and modern design.<br>
+• 📚 Support for multiple story genres and advanced creativity options.<br>
+• 🖌️ Expand art styles with more models and APIs.<br>
+• 📤 Options to save, download, and share generated stories and art.<br>
 • 🔐 User authentication and preferences (if desired).
 
 ## 🏆 Project Goals
-• This project aims to:
-• Learn Python, Machine Learning, and Generative AI from scratch.
-• Build a portfolio-worthy project with real-world impact.
-• Leverage free and open-source tools for accessibility.
+This project aims to:<br>
+• Learn Python, Machine Learning, and Generative AI from scratch.<br>
+• Build a portfolio-worthy project with real-world impact.<br>
+• Leverage free and open-source tools for accessibility.<br>
 • Develop problem-solving and software development skills.
 
 ## 📜 License
