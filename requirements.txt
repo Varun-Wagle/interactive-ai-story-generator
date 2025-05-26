@@ -3,3 +3,5 @@ requests
 transformers
 diffusers
 torch
+accelerate
+huggingface_hub[hf_xet]
