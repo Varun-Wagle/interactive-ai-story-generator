@@ -79,7 +79,7 @@ def image_to_bytes(image):
 # 🎛️ Streamlit App Layout
 # ===========================
 
-st.set_page_config(page_title="AI Story & Art Generator", layout="wide")
+st.set_page_config(page_title="StoryForge AI - Story & Art Generator", layout="wide")
 st.markdown("""
     <style>
     .stButton>button { font-size: 18px; }
@@ -92,7 +92,8 @@ tabs = st.tabs(["🏠 Home", "📖 Story Generator", "🎨 Image Generator"])
 # 🏠 Home Tab
 # ===========================
 with tabs[0]:
-    st.title("🎉 Welcome to AI Story & Art Generator")
+    st.title("🎉 Welcome to StoryForge AI "
+             "- Story & Art Generator")
     st.write("""
     Dive into a world of creativity powered by cutting-edge AI.
     - Generate immersive stories in your favorite genres.
