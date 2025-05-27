@@ -6,3 +6,4 @@ torch
 accelerate
 huggingface_hub[hf_xet]
 fpdf
+Pillow
