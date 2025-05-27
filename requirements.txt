@@ -5,13 +5,3 @@ diffusers==0.25.0
 torch
 fpdf
 Pillow
-
-# Explicit versions to resolve deployment issues
-pygments==2.19.1
-rich==14.0.0
-markdown-it-py==3.0.0
-mdurl==0.1.2
-
-# Optional: (Uncomment if image generation needs system-level libs in Streamlit Cloud)
-# opencv-python-headless
-# matplotlib

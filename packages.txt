@@ -1,0 +1,5 @@
+# Essential OS-level packages for StoryForge AI
+
+# For image processing
+libgl1-mesa-glx
+libglib2.0-0
